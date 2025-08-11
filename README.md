@@ -5,7 +5,7 @@
 **Profesión:** _Analista y desarollador de software _
 
 ## 📞 Contacto
-- **Email:** [andresocampo0723@gmail.com](andresocampo0723@gmail.com)
+- **Email:** [andresocampo0723@gmail.com](mailto:andresocampo0723@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
