@@ -16,8 +16,6 @@ Quiero aprender a usar estos programas
 - HTML
   
 
-### **Sena** _(2015 - Actualidad)_
-
 ## 🎓 Educación
 ### **Colegio Miguel Angel Asturias** _(2023)_
 - Certificado de bachiller
