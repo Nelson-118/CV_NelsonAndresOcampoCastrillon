@@ -10,7 +10,7 @@
 
 ## 🏢 Experiencia Laboral
 ### **Sena** _(2025 - Actualidad)_
-- Quiero aprender a usar estos programas 
+Quiero aprender a usar estos programas 
 - python
 - javascrit
 - HTML
